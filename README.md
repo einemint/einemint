@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 ### Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=einemint&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einemint)](https://github.com/anuraghazra/github-readme-stats)
+### Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einemint&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
