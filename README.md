@@ -22,8 +22,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 ---
-### Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=einemint&theme=dark&background=000000)](https://git.io/streak-stats)
----
 ### Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einemint&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
